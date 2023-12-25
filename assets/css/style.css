@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+.container h1{font-family: 'Rubik Doodle Shadow';}
+.container h1{color:red;}
+*{padding:0px 0px;margin:0px 0px;}
+body{ background: var(--yellow-color);box-sizing: border-box;}
+:root {--green-color: #08da2b;--red-color: #eb1414;--yellow-color: #c3e214;}
+.container{height: 100px;width: 100px;padding:10px;margin:10px;}
+
+
